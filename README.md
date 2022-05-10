@@ -2,9 +2,9 @@
 This flask application helps in classification of images in different classes.
 # Deploy Keras Model with Flask as Web App.
 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+<!--[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![](https://img.shields.io/badge/python-3.5%2B-green.svg)]()
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)-->
 
 A pretty and customizable web app to deploy your DL model with ease
 
@@ -155,7 +155,8 @@ server {
 ## Future Plan
 
 - [ ] Support detection and segmentation models
+- [ ] Support Transfer Learning and  Pre-trained models.
 
 ## More Resources
 
-[Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
+<!--[Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)-->
