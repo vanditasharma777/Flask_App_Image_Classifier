@@ -157,6 +157,6 @@ server {
 - [ ] Support detection and segmentation models
 - [ ] Support Transfer Learning and  Pre-trained models.
 
-## More Resources
+<!--## More Resources
 
 <!--[Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)-->
